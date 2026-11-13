@@ -1,0 +1,6 @@
+{
+  "name": "The Ghost Expense Auditor",
+  "description": "A sleek, dark-mode browser-based dashboard designed to uncover the true annual cost of recurring subscriptions using local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
